@@ -1,0 +1,20 @@
+.card-text {
+    text-align: center;
+}
+.card-group {
+    text-align: center;
+}
+
+.navbar-expand-lg bg-light{
+    background-color: blue;
+}
+.body {
+    background-color: #750c1e;
+}
+
+.card {
+    padding: 0 0 0 0;
+}
+.card-body {
+    padding: 0 0 0 0;
+}
